@@ -6,9 +6,34 @@ Crie uma página com o seu currículo e linke ela à nossa página principal com
 
 Qualquer dúvida, entre em contato com alguma das organizadoras listadas no nosso perfil de organização [DevGirls](https://github.com/devgirlsbr)
 
+[Inscreva-se na Hactoberfest 2021](https://hacktoberfest.digitalocean.com/) antes de começar! 
 
+### PRIMEIRO PASSO
+- Faça um fork do projeto
+- Faça clone no seu pc
+- Abra na sua IDE favorita
 
-**CÓDIGO DE CONDUTA** - utilizado no nosso servidor no Discord
+### SEGUNDO PASSO
+1 - Crie sua página de perfil:
+
+Copie o arquivo [ME-COPIE-perfil-nome.html](paginas-perfil/ME-COPIE-perfil-nome.html) e mude o nome do arquivo para o seu nome.
+No arquivo você encontra algumas instuções nos comentários.
+
+2 - Adicione sua página de perfil na página inicial:
+
+No [index.html](index.html) copie uma nova tag de \<article> dentro da "Main". Lá tem alguns comentários com instruções.
+
+3 - Teste se deu certo
+
+Copie o caminho do index.html no seu computador e cole no seu navegador. Você vai ver a página e pode ver como ficou sua edição antes de enviar =)
+
+### TERCEIRO PASSO
+ - Abra seu PR no projeto a partir dos seus commits
+ - Confira o andamento dos seus PRs na página da Hacktoberfest 2021
+
+#
+
+## **CÓDIGO DE CONDUTA** - utilizado no nosso servidor no Discord
 
 Essas são as regras de convivência aplicáveis em qualquer espaço onde a Dev Girls esteja, seja de forma presencial ou online.
 
