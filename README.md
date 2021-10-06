@@ -7,6 +7,9 @@
 O código aberto está mudando o mundo - uma contribuição de cada vez!
 </h2>
 <br/>
+
+Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineescobar.github.io/DevGirlsNoHacktober21/)
+
 =======
 <!--ts-->
 
