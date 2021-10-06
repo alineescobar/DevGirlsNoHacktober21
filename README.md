@@ -3,6 +3,8 @@
 <center><Logo-com-letras-laranja-fundo-preto><img src="./images/devgirlsHF.png" width="40%"></center>
 
 ## O código aberto está mudando o mundo - uma contribuição de cada vez!
+  
+  https://alineescobar.github.io/DevGirlsNoHacktober21/
 
 =================
 
