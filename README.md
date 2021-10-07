@@ -92,14 +92,18 @@ Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineesc
 > 5. Faça as modificações nos campos solicitados.
 
 > Para criar o perfil no index, é preciso: A. Adiconar sua foto na pasta (images); B. Preencher o card que se encontra no arquivo(index.html). Não esqueça de observar que é necessário, copiar o card modelo e prencher um novo com os seus dados. Lembre-se de adicionar sua imagem de perfil na pasta images. Nomei sua foto com o seguinte formato (perfil-nome.jpeg/jpg/png).
->Caso tenha qualquer dúvida, basta sinalizar na nossa comunidade no Discord, que as Organizadores DevGirls estarão dispostas a ajudar e elucidar qualquer questão!
+> Caso tenha qualquer dúvida, basta sinalizar na nossa comunidade no Discord, que as Organizadores DevGirls estarão dispostas a ajudar e elucidar qualquer questão!
+
+> 🤑DICA DE OURO🤑: Quando fizer o fork e depois clone, dá um <git pull> no teu terminal antes de iniciar s trabalhos só pra atualizar teus documentos😉
 
 ### Como garantir os 4PRs em um só projeto? 
 
 > Nosso repositório possue a possibilidade de envio de 5 PRs.
 > Siga a sequência de dados solicitados para criação do seu perfil DevGirl. Lembre-se de ler os comentários que estão nos arquivos, eles te ajudarão a se guiar. 
 
-> Antes de tudo, vamos mostrar o passo a passo de como abrir uma PR. Após fazer suas modificações e seguir os passos de add -> commit -> push. Vá no repositório e clique em Pull requests, logo abaixo do nome do repositório. Em seguida abrirá uma outra gia que mostrará a opção "New pull request", clique. Compare as mudanças, clicque em "compare across forks". Esse passo é super importante, você vai comparar o que foi feito na sua master com a master do repositório, aqui você verá se tem algum conflito. Feito isso, só clicar em "create pull request". Observer na imagem a seguir.
+> Antes de tudo, vamos mostrar o passo a passo de como abrir uma PR. Para garantir que todas as PRs serão feitas em sequência é legal, só abrir a próxima após a aprovação da que foi solicitada, ou seja, espera suas moficiações serem mergeadas na branch principal do projeto 😉
+
+> Após fazer suas modificações e seguir os passos de add -> commit -> push. Vá no repositório e clique em Pull requests, logo abaixo do nome do repositório. Em seguida abrirá uma outra gia que mostrará a opção "New pull request", clique. Compare as mudanças, clicque em "compare across forks". Esse passo é super importante, você vai comparar o que foi feito na sua master com a master do repositório, aqui você verá se tem algum conflito. Feito isso, só clicar em "create pull request". Observer na imagem a seguir.
 
 <h3 align="center">
 <a><imagem-código-html><img src="./images/images_rd/5PR.png" width="70%"></a>
@@ -111,7 +115,7 @@ Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineesc
 <a><imagem-código-html><img src="./images/images_rd/1PR.png" width="50%"></a>
 </h3>
 
-> Foi aprovada? Vamos à segunda. Agora preencha o campo "Informações profissionais". Repita o mesmo passo feito na primeira.
+> Sua PR foi aprovada/mergeada em nosso repositório? Sim? Então, vamos à segunda. Agora preencha o campo "Informações profissionais". Repita o mesmo passo feito na primeira.
 
 <h3 align="center">
 <a><imagem-código-html><img src="./images/images_rd/2PR.png" width="50%"></a>
