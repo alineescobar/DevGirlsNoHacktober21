@@ -1,4 +1,7 @@
-# DevGirlsnoHacktoberFest21
+# DevGirlsnoHacktoberFest22
+
+BEM VINDAS AO HACKTOBERFEST 2022
+SEGUIMOS NO MESMO REPO
 
 <h1 align="center">
 <a><Logo-com-letras-laranja-fundo-preto><img src="./images/images_rd/devgirlsHF.png" width="40%"></a>
@@ -144,6 +147,3 @@ Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineesc
 ### Licença
 
 <left><Logo-cc-letras-pretas-fundo-branco><img src="./images/images_rd/cc-logo.jpg" width="2.5%"></left>[CreativeCommons](http://creativecommons.org/licenses/by/3.0/)
-
-
-
