@@ -4,7 +4,7 @@ BEM VINDAS AO HACKTOBERFEST 2022
 SEGUIMOS NO MESMO REPO
 
 <h1 align="center">
-<a><Logo-com-letras-laranja-fundo-preto><img src="./images/images_rd/devgirlsHF.png" width="40%"></a>
+<a><Logo-com-letras-laranja-fundo-preto><img src="./images/images_rd/hacktober22.png" width="40%"></a>
 </h1>
 <h2 align="center">
 O código aberto está mudando o mundo - uma contribuição de cada vez!
