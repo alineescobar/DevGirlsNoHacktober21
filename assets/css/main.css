@@ -1855,16 +1855,21 @@ input, select, textarea {
 			display: inline-block;
 			text-align: center;
 			line-height: 2.65em;
+			margin-bottom: 15px;
 			color: inherit;
 		}
 
 			.icon.style2:before {
 				font-size: 1.1em;
+				
 			}
 
 			.icon.style2:hover {
 				color: #f2849e;
 				border-color: #f2849e;
+				height: 55px; ;
+				width: 55px;
+				
 			}
 
 			.icon.style2:active {
