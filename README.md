@@ -49,7 +49,6 @@ Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineesc
 
 > Saiba mais e inscreva-se em: [HacktoberFest2021](https://hacktoberfest.digitalocean.com/).
 
-
 ## Tecnologias
 
 > Este projeto foi desenvolvido com as seguintes tecnologias:
@@ -82,7 +81,11 @@ Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineesc
   
 ### Nosso Projeto
 
-> Este ano, reafirmando nosso incentivo à participação das Mulheres no mundo da tecnologia, decidimos criar este projeto, que consiste em criar a página do pefil des membres de nossa comunidade. Cada uma poderá preencher seu perfil como informações, pessoais, profissionais, acadêmicas, seus contatos e criar um card com imagem para que possamos divulgar ainda mais mulheres e suas histórias, no mundo tech.
+> No ano de 2021, reafirmando nosso incentivo à participação das Mulheres no mundo da tecnologia, decidimos criar este projeto, que consiste em criar a página do pefil des membres de nossa comunidade. Cada uma poderá preencher seu perfil como informações, pessoais, profissionais, acadêmicas, seus contatos e criar um card com imagem para que possamos divulgar ainda mais mulheres e suas histórias, no mundo tech.
+
+> Para 2022, decidimos continuar com o repositório, incentivando outras mulheres da comunidade à contribuir com este projeto que é uma forma de nos (re)conhecermos enquanto membros e divulgarmos nossos perfis. 
+
+> Ainda pensamos em algo para praticar Lógica de Programação em diversas linguagens, pensamos em algo lúdico que pudesse trazer a possibilidade de desenvolver códigos em diversas linguagens de programação e pudesse ajudar iniciantes a desenvolver soluções através da linguagem que estas tivessem mais familiaridade.
 
 ## Como participar
 
@@ -96,6 +99,17 @@ Vem conferir como está nosso projeto: [Dev Girls no Hacktober](https://alineesc
 
 > Para criar o perfil no index, é preciso: A. Adiconar sua foto na pasta (images); B. Preencher o card que se encontra no arquivo(index.html). Não esqueça de observar que é necessário, copiar o card modelo e prencher um novo com os seus dados. Lembre-se de adicionar sua imagem de perfil na pasta images. Nomei sua foto com o seguinte formato (perfil-nome.jpeg/jpg/png).
 > Caso tenha qualquer dúvida, basta sinalizar na nossa comunidade no Discord, que as Organizadores DevGirls estarão dispostas a ajudar e elucidar qualquer questão!
+
+
+> Para contribuir no projeto 'Pratique sua Lógica', siga os seguintes passos:
+>
+> 1. Faça o fork deste repositório;
+> 2. Clone em sua máquina;
+> 3. Abra a pasta 'Pratique sua Lógica';
+> 4. Se não encontrar uma pasta com a linguagem que gostaria de praticar, crie uma subpasta com o nome da linguagem com o seguinte formato: (Nome da Linguagem);
+> 5. Dentro da pasta, crie uma pasta com seu nome e faça um arquivo para cada questão nomeando por (Questão 1), e assim por diante;
+> 6. Caso a pasta já exista, siga as orientações da ponto 5.
+
 
 > 🤑DICA DE OURO🤑: Quando fizer o fork e depois clone, dá um <git pull> no teu terminal antes de iniciar s trabalhos só pra atualizar teus documentos😉
 
