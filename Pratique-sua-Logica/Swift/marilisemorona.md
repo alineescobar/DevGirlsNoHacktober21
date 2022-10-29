@@ -109,28 +109,28 @@ func listNotes(ofTheCourse curso: Course) -> [Double] {
         }
     }
     array.sort()
-    print(array)
     return array
 }
 
-var arrayNotes = listNotes(ofTheCourse: Course.logic)
 
-func removeMinNotes(arrayOfNotes array: [Double]) -> [Double] {
+
+func removeMinNotes(_ curso: Course) -> [Double] {
+    var arrayNotes = listNotes(ofTheCourse: curso)
     var newArray: [Double] = []
-    var oldArray = array
+    var oldArray = arrayNotes
     
     while oldArray.count > 2 {
         let note = oldArray.removeLast()
         newArray.append(note)
     }
-    print(newArray)
     return newArray
 }
 
-var newArrayNotes = removeMinNotes(arrayOfNotes: arrayNotes)
 
-func sumNotes(arrayForSum array: [Double]) -> Double {
-    var notes = array
+
+func sumNotes(_ curso: Course) -> Double {
+    var newArrayNotes = removeMinNotes(curso)
+    var notes = newArrayNotes
     var sum: Double = 0
     
     for note in notes {
@@ -138,33 +138,40 @@ func sumNotes(arrayForSum array: [Double]) -> Double {
         sum += value
     }
     
-    var med = sum/3
-    
-    print(sum)
-    print(med)
+    var med = sum/2
     return med
 }
 
-var medCourse = sumNotes(arrayForSum: newArrayNotes)
 
-func needIsExam(medCourse note: Double, course: Course) -> String {
-    var med: Double = note*2
+
+func needIsExam(_ curso: Course) -> String {
+    var medCourse = sumNotes(curso)
+    var med: Double = medCourse*2
     var medForApproved: Double = 8*2
     var newNote: Double = 0
     var sentence: String = ""
     
     if (medForApproved - med) <= 0 {
-        sentence = "Eduardo não precisa fazer a quinta prova para a disciplina de \(course.description())"
+        sentence = "Eduardo não precisa fazer a quinta prova para a disciplina de \(curso.description())"
     } else {
         newNote = (medForApproved - med)+8
-        sentence = "Eduardo precisa fazer a quinta prova para a disciplina de \(course.description()), e precisá tirar \(newNote) pontos"
+        sentence = "Eduardo precisa fazer a quinta prova para a disciplina de \(curso.description()), e precisá tirar \(newNote) pontos"
     }
     
     return sentence
 }
 
-var needExam = needIsExam(medCourse: medCourse, course: .logic)
-print(needExam)
+var needExamForLogic = needIsExam(.logic)
+print(needExamForLogic)
+var needExamForPoo = needIsExam(.poo)
+print(needExamForPoo)
+var needExamForProject = needIsExam(.project)
+print(needExamForProject)
+var needExamForIntsEnglish = needIsExam(.instrumentalEnglish)
+print(needExamForIntsEnglish)
+var needExamForEnterpreneurship = needIsExam(.entrepreneurship)
+print(needExamForEnterpreneurship)
+
 
 ### Aprenda Swift
 
