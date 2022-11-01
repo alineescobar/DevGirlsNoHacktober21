@@ -42,7 +42,7 @@
 > 4. Inglês Instrumental: 
 > Nota 1: 9,5 / Nota 2: 4,5 / Nota 3: 7,5 / Nota 4: 8,0 / Nota 5: ?
 > 5. Empreendedorismo: 
-> Nota 1:  / Nota 2: / Nota 3: / Nota 4: / Nota 5: ?
+> Nota 1: 8.0 / Nota 2: 9.5 / Nota 3: 7.0 / Nota 4: 6.0 / Nota 5: ?
 
 > Com a sua ajuda, a Mônica percebeu que sobrou um dinheiro no orçamento do mês e o Eduardo conseguiu ser aprovado. Eles decidiram comemorar e sair para jantar.
 
